@@ -86,4 +86,6 @@
 
 
 ## Esquema General de la Base de Datos
-![Ver Esquema General](https://drive.google.com/file/d/1wAjqRYOoiIHJFUuhoiBBwPwpIxnacQcj/view "Haz clic para ver el Esquema General de la Base de Datos")
+Enlace para ver el Esquema General de la Base de Datos
+
+https://drive.google.com/file/d/1wAjqRYOoiIHJFUuhoiBBwPwpIxnacQcj/view
